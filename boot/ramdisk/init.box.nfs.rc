@@ -1,0 +1,3 @@
+service nfsmanager /data/etc/nfsmanager.sh
+     disabled
+     oneshot

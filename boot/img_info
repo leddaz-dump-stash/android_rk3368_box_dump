@@ -1,0 +1,14 @@
+kernel=kernel
+ramdisk=ramdisk
+second=second.img
+page_size=16384
+kernel_size=16045680
+ramdisk_size=1320224
+second_size=281088
+base_addr=0x60400000
+kernel_offset=0x00008000
+ramdisk_offset=0x01c00000
+tags_offset=0xffc88000
+cmd_line=''
+board=""
+format=gzip

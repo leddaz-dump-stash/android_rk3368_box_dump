@@ -1,0 +1,22 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.target.product=box
+ro.secure=1
+ro.allow.mock.location=0
+ro.debuggable=1
+ro.zygote=zygote64_32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+debug.atrace.tags.enableflags=0
+ro.enable_boot_charger_mode=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Fri Nov 30 04:09:27 UTC 2018
+ro.bootimage.build.date.utc=1543550967
+ro.bootimage.build.fingerprint=Android/rk3368_box/rk3368_box:6.0.1/MXC89K/root11300340:userdebug/test-keys
+persist.sys.usb.config=adb

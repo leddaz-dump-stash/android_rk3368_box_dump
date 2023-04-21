@@ -1,0 +1,3 @@
+post-build=Android/rk3368_box/rk3368_box:6.0.1/MXC89K/root11300340:userdebug/test-keys
+post-timestamp=1543549633
+pre-device=rk3368_box
